@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Harsh%20Tiwari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Harsh%20Tiwari&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20and%20ML%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI%2FML+projects+with+Python;Exploring+Deep+Learning+%26+NLP;Turning+ideas+into+working+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ Who I Am
 
-```typescript
+typescript
 const harshTiwari = {
   title: "AI & ML Student",
   stack: ["C", "Java", "Python", "HTML", "CSS", "JavaScript"],
@@ -31,7 +31,7 @@ const harshTiwari = {
   status: "Actively building & learning",
   openTo: ["Software Development Roles", "AI/ML Internships", "Collaborations"],
 };
-```
+
 
 <br/>
 
@@ -65,11 +65,11 @@ const harshTiwari = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+*Languages*
 
 ![Skills](https://skillicons.dev/icons?i=c,java,python&theme=dark)
 
-**Frontend**
+*Frontend*
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)
 
