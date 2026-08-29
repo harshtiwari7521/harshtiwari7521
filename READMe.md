@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ Who I Am
 
-typescript
+'''typescript
 const harshTiwari = {
   title: "AI & ML Student",
   stack: ["C", "Java", "Python", "HTML", "CSS", "JavaScript"],
