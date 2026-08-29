@@ -17,21 +17,14 @@
 
 ## 🙋‍♂️ Who I Am
 
-'''typescript
-const harshTiwari = {
-  title: "AI & ML Student",
-  stack: ["C", "Java", "Python", "HTML", "CSS", "JavaScript"],
-  launchedProjects: [
-    "Student Accommodation Platform",
-    "College FAQ Chatbot",
-    "Image Classification (TensorFlow/Keras)",
-    "AI Language Translator",
-  ],
-  certifications: ["Artificial Intelligence Intern @ Intern Infobyte", "VR Development Intern @ Smart Bridge"],
-  status: "Actively building & learning",
-  openTo: ["Software Development Roles", "AI/ML Internships", "Collaborations"],
-};
-
+| Field | Value |
+|---|---|
+| *Title* | AI and ML Student |
+| *Stack* | C, Java, Python, HTML, CSS, JavaScript |
+| *Launched Projects* | Student Accommodation Platform, College FAQ Chatbot, Image Classification (TensorFlow/Keras), AI Language Translator |
+| *Certifications* | AI Intern at Intern Infobyte, VR Development Intern at Smart Bridge |
+| *Status* | Actively building and learning |
+| *Open To* | Software Development Roles, AI/ML Internships, Collaborations |
 
 <br/>
 
